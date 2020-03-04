@@ -1,3 +1,4 @@
 # covid_tokyo
 東京都の新型コロナウイルス対策のGitHubからデータを収集してまとめて行きます。
 当面サンプル数が少ないため統計データとして活用は難しいと思われますが、データが増えてくると活用できるかもしれません。
+[東京都コロナウイルスGitHub](https://github.com/tokyo-metropolitan-gov/covid19?fbclid=IwAR01fheS2ySJLGq1S-ChfG4p7Gbfo6xDuomLUvjaYLqTaO9yyJMU5cEOXWI)
